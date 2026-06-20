@@ -40,6 +40,7 @@ I design highly optimized and secure tools, and train deep learning models. Chec
 - 📄 **[PDF-OCR](https://github.com/m0mft/PDF-OCR)**: Machine Learning-powered automated OCR workflow using `EasyOCR`, capable of extracting text from Persian, Arabic, and English PDFs.
 
 #### ☁️ Cloud & Automation Tools
+- 🎵 **[Telegram-Audio-Downloader](https://github.com/m0mft/Telegram-Audio-Downloader)**: A powerful, secure PyQt6 GUI application to seamlessly fetch and organize audio files from Telegram chats, groups, and channels.
 - 🛡️ **[domain-inquirer](https://github.com/m0mft/domain-inquirer)**: Fully automated Attack Surface Mapping and Reconnaissance workflow using `subfinder` and `nmap`.
 - ⚡ **[Direct-Link-Downloader](https://github.com/m0mft/Direct-Link-Downloader)**: Extremely fast file downloader using parallel connections (`aria2c`), with cloud storage integration and dynamic compression.
 - 📹 **[Utube-downloader](https://github.com/m0mft/Utube-downloader)**: A secure, serverless YouTube media extractor with subtitle generation and encrypted cookies support.
