@@ -56,6 +56,14 @@ I design highly optimized and secure tools, and train deep learning models. Chec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0mft&layout=compact&theme=transparent&hide_border=true&title_color=2EA043&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="192px"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m0mft/m0mft/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m0mft/m0mft/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m0mft/m0mft/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <div align="center">
   <i>Let's connect and build something awesome together!</i>
 </div>
