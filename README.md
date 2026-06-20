@@ -35,6 +35,7 @@ When I'm not writing code, I'm likely researching new attack surfaces or finding
 I design highly optimized and secure tools, and train deep learning models. Check out my featured repositories:
 
 #### 🧠 Machine Learning & AI
+- 🎵 **[AI-Music-Organizer](https://github.com/m0mft/AI-Music-Organizer)**: A collection of automated, AI-powered scripts to identify, tag, and organize music using Audio Fingerprinting (AcoustID), Shazam, Spotify, and NLP (Flair).
 - 👕 **[FashionMNIST-PyTorch-Pipeline](https://github.com/m0mft/FashionMNIST-PyTorch-Pipeline)**: A complete end-to-end deep learning pipeline for training and evaluating an image classifier on the FashionMNIST dataset using PyTorch.
 - 📰 **[bbcsport-classifier-pytorch](https://github.com/m0mft/bbcsport-classifier-pytorch)**: A natural language processing (NLP) model built with PyTorch to classify BBC Sport news articles into 5 distinct categories.
 - 📄 **[PDF-OCR](https://github.com/m0mft/PDF-OCR)**: Machine Learning-powered automated OCR workflow using `EasyOCR`, capable of extracting text from Persian, Arabic, and English PDFs.
