@@ -52,8 +52,11 @@ I design highly optimized and secure tools, and train deep learning models. Chec
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0mft&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=ffffff&bg_color=0d1117" alt="m0mft's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0mft&layout=compact&theme=transparent&hide_border=true&title_color=2EA043&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="192px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="github-metrics.svg">
+    <img alt="GitHub Metrics" src="github-metrics.svg">
+  </picture>
 </p>
 
 <p align="center">
