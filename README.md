@@ -32,12 +32,17 @@ When I'm not writing code, I'm likely researching new attack surfaces or finding
 
 ### 🚀 Highlighted Projects
 
-I design highly optimized and secure tools. Check out my featured repositories:
+I design highly optimized and secure tools, and train deep learning models. Check out my featured repositories:
 
+#### 🧠 Machine Learning & AI
+- 👕 **[FashionMNIST-PyTorch-Pipeline](https://github.com/m0mft/FashionMNIST-PyTorch-Pipeline)**: A complete end-to-end deep learning pipeline for training and evaluating an image classifier on the FashionMNIST dataset using PyTorch.
+- 📰 **[bbcsport-classifier-pytorch](https://github.com/m0mft/bbcsport-classifier-pytorch)**: A natural language processing (NLP) model built with PyTorch to classify BBC Sport news articles into 5 distinct categories.
+- 📄 **[PDF-OCR](https://github.com/m0mft/PDF-OCR)**: Machine Learning-powered automated OCR workflow using `EasyOCR`, capable of extracting text from Persian, Arabic, and English PDFs.
+
+#### ☁️ Cloud & Automation Tools
 - 🛡️ **[domain-inquirer](https://github.com/m0mft/domain-inquirer)**: Fully automated Attack Surface Mapping and Reconnaissance workflow using `subfinder` and `nmap`.
 - ⚡ **[Direct-Link-Downloader](https://github.com/m0mft/Direct-Link-Downloader)**: Extremely fast file downloader using parallel connections (`aria2c`), with cloud storage integration and dynamic compression.
 - 📹 **[Utube-downloader](https://github.com/m0mft/Utube-downloader)**: A secure, serverless YouTube media extractor with subtitle generation and encrypted cookies support.
-- 📄 **[PDF-OCR](https://github.com/m0mft/PDF-OCR)**: Machine Learning-powered automated OCR workflow using `EasyOCR`, capable of extracting text from Persian, Arabic, and English PDFs.
 - 🔗 **[Torrent-downloader-Awesome](https://github.com/m0mft/Torrent-downloader-Awesome)**: High-speed, split-archive capable Torrent to Cloud/GitHub workflow.
 
 ---
