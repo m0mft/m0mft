@@ -52,11 +52,8 @@ I design highly optimized and secure tools, and train deep learning models. Chec
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-metrics.svg">
-    <img alt="GitHub Metrics" src="github-metrics.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/m0mft/m0mft/output/github-stats.svg" alt="m0mft's GitHub stats" height="192px"/>
+  <img src="https://raw.githubusercontent.com/m0mft/m0mft/output/top-langs.svg" alt="Top Languages" height="192px"/>
 </p>
 
 <p align="center">
